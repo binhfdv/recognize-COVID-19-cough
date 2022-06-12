@@ -1,0 +1,6 @@
+Features:
+    + Mel-spectrogram
+    + MFCC 13, 26, 39
+Type:
+    + Raw cough (provided from original datasets): https://bit.ly/chunk_cough_feature
+    + Chunk cough: https://bit.ly/raw_cough_feature
